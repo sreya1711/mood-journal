@@ -1,0 +1,27 @@
+/* src/components/MoodHistory.css */
+.mood-history {
+  margin-top: 2rem;
+}
+
+.mood-history h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.history-item {
+  background: #f0faff;
+  border-left: 4px solid #00bcd4;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  list-style: none;
+}
+
+.history-item .date {
+  font-weight: bold;
+}
+
+.history-item .note {
+  color: #666;
+  font-style: italic;
+}
