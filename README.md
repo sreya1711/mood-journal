@@ -31,5 +31,11 @@ This project was built as part of my journey into ReactJS, focusing on component
 - **Deployment**: Vercel
 
 ---
+### 🙋‍♀️ Developed by
 
+**Sreya Rajesh**  
+Frontend Developer | Passionate about UI/UX and AI  
+[GitHub](https://github.com/sreya1711)
+
+---
 
